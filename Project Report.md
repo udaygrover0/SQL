@@ -1,4 +1,6 @@
 (i) Normal Forms of the Tables
+  
+  
   The analysis of the tables in the database ensures they adhere to the principles of normalization, specifically First Normal Form (1NF) and Second Normal Form     (2NF). Each table was evaluated based on the rules of 1NF and 2NF to ensure data integrity, eliminate redundancy, and optimize the database structure.
 
   
